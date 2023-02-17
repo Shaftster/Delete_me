@@ -1,0 +1,1 @@
+array = ['delete delete delete']
